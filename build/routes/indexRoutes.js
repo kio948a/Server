@@ -13,6 +13,7 @@ class IndexRoutes {
         this.router.get('/omar/', (req, res) => res.send("Hola gay"));
         this.router.get('/eli/', (req, res) => res.send("Hola gay"));
         this.router.get('/moises/', (req, res) => res.send("Tu me saliste mas cabron"));
+        this.router.get('/chuy/', (req, res) => res.send("Quiero una estufa, una tele, una lavadora, una bocina, una switch y un refri y ..."));
         this.router.get('/jose/', (req, res) => res.send("Hola gay"));
         this.router.get('/Carlos/', (req, res) => res.send("QUE SUPER HOMOSEXUAL"));
     }
